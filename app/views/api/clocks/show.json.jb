@@ -1,0 +1,5 @@
+{
+id: @clock.id,
+style: @clock.style,
+price: @clock.price
+}

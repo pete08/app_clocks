@@ -1,0 +1,7 @@
+@clocks.map do |clock|
+  {
+  id: clock.id,
+  style: clock.style,
+  price: clock.price
+}
+end
